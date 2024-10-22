@@ -28,7 +28,7 @@
   "homepage": "https://github.com/iway1/react-native-good-keyboard-avoiding#readme",
   "peerDependencies": {
     "react": "^18.2.0",
-    "react-native": "^0.62.0",
+    "react-native": "^0.74.1",
     "react-native-reanimated": "^2.0.0",
     "react-native-uuid": "^2.0.1"
   },
